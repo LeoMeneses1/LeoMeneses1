@@ -1,4 +1,4 @@
-## Hi there 👋. I'm LeoMeneses1
+## Hi everyone, I'm LeoMeneses1
 
 
 - 🔭 I’m currently working on back-end
